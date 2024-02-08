@@ -82,8 +82,7 @@
 Google-Learning (folder)
 |
 |----style.css       
-|----img (folder)  
-|----app.js            
+|----img (folder)         
 |----index.html
 |----readme.md
 ```
