@@ -19,7 +19,7 @@
     <a href="https://github.com/ibrsec/F1-News"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/F1-News/">View Demo</a>
+    <a href="https://f1-news-nine.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/F1-News/issues">Report Bug</a>
     ·
@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![F1-News](./img/p.gif)](https://ibrsec.github.io/F1-News/)
+[![F1-News](./img/p.gif)](https://f1-news-nine.vercel.app/)
 
 
 
